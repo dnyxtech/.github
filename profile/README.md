@@ -1,69 +1,72 @@
+<div align="center">
+
 # DNYX
 
-At DNYX, we specialize in crafting cutting-edge web development solutions that help businesses shine in the digital world. Our passion is turning ideas into reality with sleek, scalable, and powerful web applications.
+**Web and mobile products, built to scale.**
+
+We design, build and ship web applications for businesses — from first idea to production and beyond.
+
+[![Website](https://img.shields.io/badge/Website-dnyxtech.com-111827?style=for-the-badge)](https://dnyxtech.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DNYX-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/dnyx/)
+[![X](https://img.shields.io/badge/X-@dnyxofficial-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dnyxofficial)
+[![Email](https://img.shields.io/badge/Email-contact@dnyx.com-EA4335?style=for-the-badge)](mailto:contact@dnyx.com)
+
+</div>
 
 ## 🌟 Our Mission
 
-Empowering businesses with tailored web solutions that drive success and innovation. We believe in the power of collaboration, bringing together the best minds to create exceptional digital experiences.
+Give businesses tailored web solutions that drive real results. We work as a collaborative team and treat every project as a product we would be proud to run ourselves.
 
-## 🛠️ What We Do Best
+## 🛠️ What We Do
 
-We bring a wealth of expertise across the full web development spectrum, ensuring that every project we take on is a masterpiece.
+| Area | What we deliver | Stack |
+| --- | --- | --- |
+| **Frontend** | Fast, responsive, accessible interfaces with server-side rendering where it counts | React, Next.js, Vite, TypeScript, Tailwind CSS, Material UI, Chakra UI, Bootstrap |
+| **Backend** | Server-side logic and data layers that grow with your traffic | Node.js, Express, Prisma |
+| **Databases** | Reliable relational and document storage | PostgreSQL, MySQL, MongoDB, Firebase |
+| **APIs & Integration** | Clean contracts between your product and everything it talks to | REST, GraphQL |
+| **Mobile** | One codebase, native-feeling apps on iOS and Android | React Native |
+| **DevOps & Cloud** | Containerized deployments and automated delivery pipelines | Docker, Kubernetes, CI/CD, AWS |
 
-### Frontend Development
+<div align="center">
 
-- **React.js & Next.js**: Dynamic user interfaces and server-side rendering for fast and interactive applications.
-- **Vite.js**: Lightning-fast development and build tool.
-- **HTML5 & CSS3**: Pixel-perfect designs with a focus on responsiveness.
-- **JavaScript & TypeScript**: Modern, efficient code that powers complex applications.
-- **Tailwind CSS & Bootstrap**: Rapid UI development with utility-first and component-based frameworks.
-- **Material UI & Chakra UI**: Modern UI components for accessible and flexible design.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Backend Development
-
-- **Node.js & Express**: Robust server-side logic for scalable applications.
-- **Prisma**: Powerful and intuitive ORM for working with databases.
-
-### Database Management
-
-- **MongoDB & PostgreSQL**: Scalable and reliable data storage solutions.
-- **MySQL**: Trusted relational database management.
-- **Firebase & AWS**: Cloud-based databases and services for scalable and secure solutions.
-
-### API & Integration
-
-- **RESTful APIs**: Seamless integration and data exchange.
-- **GraphQL**: Optimized query-based APIs for efficient data fetching.
-
-### DevOps & Deployment
-
-- **Docker & Kubernetes**: Containerization and orchestration for scalable deployment.
-- **CI/CD**: Automated workflows for continuous integration and deployment.
-
-### App Development
-
-- **React Native**: Cross-platform mobile app development with a focus on native performance.
+</div>
 
 ## 🌍 How We Work
 
-At DNYX, we follow a streamlined process designed to deliver the best results:
-
-1. **Discovery**: Understanding your vision and goals.
-2. **Design**: Crafting intuitive and attractive user interfaces.
-3. **Development**: Building robust and scalable solutions.
-4. **Testing**: Ensuring the highest quality through rigorous testing.
-5. **Deployment**: Seamlessly launching your product into the world.
-6. **Support**: Providing continuous support to keep your product thriving.
+1. **Discovery** — understand your vision, users and goals.
+2. **Design** — shape intuitive, attractive interfaces.
+3. **Development** — build robust, scalable software.
+4. **Testing** — verify quality before anything ships.
+5. **Deployment** — launch smoothly into production.
+6. **Support** — keep your product healthy after launch.
 
 ## 👥 Connect With Us
 
-We're always excited to collaborate and explore new opportunities! Get in touch:
+Have a project in mind? We'd love to hear about it.
 
+- 🌐 **Website**: [dnyxtech.com](https://dnyxtech.com/)
 - 📧 **Email**: [contact@dnyx.com](mailto:contact@dnyx.com)
-- 💼 **LinkedIn**: [DNYX LinkedIn](https://www.linkedin.com/company/dnyx/)
-- 🐦 **Twitter**: [DNYX Twitter](https://x.com/dnyxofficial)
-- 🌐 **Website**: [www.web.dnyx.in](http://www.dnyx.in)
+- 💼 **LinkedIn**: [DNYX](https://www.linkedin.com/company/dnyx/)
+- ✖️ **X**: [@dnyxofficial](https://x.com/dnyxofficial)
 
 ## 📄 License
 
-This repository is licensed under the MIT License - see the [LICENSE](./LICENSE) file for more details.
+The contents of this repository are released under the [MIT License](https://github.com/dnyxtech/.github/blob/main/LICENSE).
